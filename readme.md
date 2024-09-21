@@ -28,7 +28,7 @@
    }
    ```
 
-   ![成功代码](C:\Users\dwd\AppData\Roaming\Typora\typora-user-images\image-20240921231419072.png)
+   ![成功代码](./image/image-20240921231419072.png)
 
 ## 基础语法应用
 
