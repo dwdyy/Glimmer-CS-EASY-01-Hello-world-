@@ -5,7 +5,7 @@
    我更喜欢高级语言，方便易懂，不懂还可以查相关资料，可以引入丰富库文件，拿汇编语言写项目并不是容易的事
 
 2. ```cpp
-   #include <stdio.h> // 引入stdio头文件,引入printf函数
+   #include <stdio.h> // 引入stdio库文件,来使用下方printf函数
    
    int main() { // 主函数
        printf("Hello, world!"); // 输出 
